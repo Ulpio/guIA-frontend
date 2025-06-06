@@ -22,7 +22,7 @@
 
 /* ==================== AUTH BRAND ==================== */
 .auth-brand {
-  background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+  background: linear-gradient(135deg, #00A86B 0%, #008F5A 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -137,12 +137,12 @@
 }
 
 .user-type-option:hover {
-  border-color: #007bff;
+  border-color: #00A86B;
   background: #f8f9ff;
 }
 
 .user-type-option.active {
-  border-color: #007bff;
+  border-color: #00A86B;
   background: rgba(0, 123, 255, 0.05);
 }
 
@@ -153,7 +153,7 @@
 }
 
 .user-type-option.active .user-type-icon {
-  color: #007bff;
+  color: #00A86B;
 }
 
 .user-type-content {
@@ -254,7 +254,7 @@
   height: 16px;
   margin: 0;
   margin-top: 0.125rem;
-  accent-color: #007bff;
+  accent-color: #00A86B;
 }
 
 .form-check-label {
@@ -273,13 +273,13 @@
 
 .auth-forgot-link {
   font-size: 0.875rem;
-  color: #007bff;
+  color: #00A86B;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 .auth-forgot-link:hover {
-  color: #0056b3;
+  color: #008F5A;
   text-decoration: underline;
 }
 
@@ -359,14 +359,14 @@
 }
 
 .auth-link {
-  color: #007bff;
+  color: #00A86B;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s ease;
 }
 
 .auth-link:hover {
-  color: #0056b3;
+  color: #008F5A;
   text-decoration: underline;
 }
 
