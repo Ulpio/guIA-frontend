@@ -70,7 +70,7 @@
 /* Logo */
 .header-logo {
   text-decoration: none;
-  color: #007bff;
+  color: #00A86B;
   font-size: 1.5rem;
   font-weight: bold;
   margin-right: 1rem;
@@ -78,11 +78,11 @@
 
 .header-logo:hover {
   text-decoration: none;
-  color: #0056b3;
+  color: #008F5A;
 }
 
 .header-logo-text {
-  background: linear-gradient(135deg, #007bff, #0056b3);
+  background: linear-gradient(135deg, #00A86B, #008F5A);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -111,7 +111,7 @@
 
 .header-search-container.focused {
   background: white;
-  border-color: #007bff;
+  border-color: #00A86B;
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
 }
 
@@ -174,12 +174,12 @@
 }
 
 .header-create-btn {
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
 }
 
 .header-create-btn:hover {
-  background-color: #0056b3;
+  background-color: #008F5A;
   color: white;
 }
 
@@ -239,7 +239,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   font-weight: 600;
   font-size: 0.875rem;
@@ -391,7 +391,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   font-weight: 600;
   font-size: 1rem;
@@ -454,7 +454,7 @@
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   padding: 0.75rem 1rem;
   border-radius: 8px;
@@ -466,7 +466,7 @@
 }
 
 .sidebar-create-btn:hover {
-  background-color: #0056b3;
+  background-color: #008F5A;
   color: white;
   text-decoration: none;
   transform: translateY(-1px);
@@ -508,7 +508,7 @@
 
 .sidebar-nav-link.active {
   background-color: rgba(0, 123, 255, 0.1);
-  color: #007bff;
+  color: #00A86B;
 }
 
 .sidebar-nav-icon {

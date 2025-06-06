@@ -45,13 +45,13 @@ p {
 }
 
 a {
-  color: #007bff;
+  color: #00A86B;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #008F5A;
   text-decoration: underline;
 }
 
@@ -132,14 +132,14 @@ button:disabled {
 .p-5 { padding: 2rem; }
 
 /* Colors */
-.text-primary { color: #007bff; }
+.text-primary { color: #00A86B; }
 .text-secondary { color: #6c757d; }
 .text-success { color: #28a745; }
 .text-danger { color: #dc3545; }
 .text-warning { color: #ffc107; }
 .text-info { color: #17a2b8; }
 
-.bg-primary { background-color: #007bff; }
+.bg-primary { background-color: #00A86B; }
 .bg-secondary { background-color: #6c757d; }
 .bg-success { background-color: #28a745; }
 .bg-danger { background-color: #dc3545; }
@@ -162,7 +162,7 @@ button:disabled {
   width: 40px;
   height: 40px;
   border: 4px solid #f3f3f3;
-  border-top: 4px solid #007bff;
+  border-top: 4px solid #00A86B;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
@@ -203,12 +203,12 @@ button:disabled {
 }
 
 .btn-primary {
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
 }
 
 .btn-primary:hover {
-  background-color: #0056b3;
+  background-color: #008F5A;
   text-decoration: none;
   color: white;
 }
@@ -226,12 +226,12 @@ button:disabled {
 
 .btn-outline {
   background-color: transparent;
-  border: 2px solid #007bff;
-  color: #007bff;
+  border: 2px solid #00A86B;
+  color: #00A86B;
 }
 
 .btn-outline:hover {
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   text-decoration: none;
 }
@@ -272,7 +272,7 @@ button:disabled {
 }
 
 .form-control:focus {
-  border-color: #007bff;
+  border-color: #00A86B;
   outline: 0;
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
 }
@@ -368,13 +368,13 @@ p {
 }
 
 a {
-  color: #007bff;
+  color: #00A86B;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #008F5A;
   text-decoration: underline;
 }
 
@@ -455,14 +455,14 @@ button:disabled {
 .p-5 { padding: 2rem; }
 
 /* Colors */
-.text-primary { color: #007bff; }
+.text-primary { color: #00A86B; }
 .text-secondary { color: #6c757d; }
 .text-success { color: #28a745; }
 .text-danger { color: #dc3545; }
 .text-warning { color: #ffc107; }
 .text-info { color: #17a2b8; }
 
-.bg-primary { background-color: #007bff; }
+.bg-primary { background-color: #00A86B; }
 .bg-secondary { background-color: #6c757d; }
 .bg-success { background-color: #28a745; }
 .bg-danger { background-color: #dc3545; }
@@ -485,7 +485,7 @@ button:disabled {
   width: 40px;
   height: 40px;
   border: 4px solid #f3f3f3;
-  border-top: 4px solid #007bff;
+  border-top: 4px solid #00A86B;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
@@ -541,12 +541,12 @@ button:disabled {
 }
 
 .btn-primary {
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
 }
 
 .btn-primary:hover:not(:disabled) {
-  background-color: #0056b3;
+  background-color: #008F5A;
   text-decoration: none;
   color: white;
   transform: translateY(-1px);
@@ -566,12 +566,12 @@ button:disabled {
 
 .btn-outline {
   background-color: transparent;
-  border: 2px solid #007bff;
-  color: #007bff;
+  border: 2px solid #00A86B;
+  color: #00A86B;
 }
 
 .btn-outline:hover:not(:disabled) {
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   text-decoration: none;
 }
@@ -632,7 +632,7 @@ button:disabled {
 }
 
 .form-control:focus {
-  border-color: #007bff;
+  border-color: #00A86B;
   outline: 0;
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
 }
@@ -746,7 +746,7 @@ select.form-control {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #007bff;
+  background-color: #00A86B;
   color: white;
   font-weight: 600;
   font-size: 0.875rem;
@@ -765,7 +765,7 @@ select.form-control {
 
 .badge-primary {
   background-color: rgba(0, 123, 255, 0.1);
-  color: #007bff;
+  color: #00A86B;
 }
 
 .badge-success {
@@ -823,7 +823,7 @@ select.form-control {
 
 /* Focus styles for accessibility */
 *:focus {
-  outline: 2px solid #007bff;
+  outline: 2px solid #00A86B;
   outline-offset: 2px;
 }
 
@@ -853,7 +853,7 @@ select:focus {
   }
 }
 .form-control:focus {
-  border-color: #007bff;
+  border-color: #00A86B;
   outline: 0;
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
 }

@@ -34,7 +34,7 @@
 /* Spinner Colors */
 .loading-spinner-primary {
   border-color: #e5e7eb;
-  border-top-color: #007bff;
+  border-top-color: #00A86B;
 }
 
 .loading-spinner-secondary {
@@ -111,7 +111,7 @@
 .page-loading-title {
   font-size: 2rem;
   font-weight: bold;
-  color: #007bff;
+  color: #00A86B;
   margin: 1rem 0 0.5rem 0;
 }
 
@@ -276,7 +276,7 @@
   width: 16px;
   height: 16px;
   border: 2px solid #e5e7eb;
-  border-top-color: #007bff;
+  border-top-color: #00A86B;
   border-radius: 50%;
   animation: loading-spin 1s linear infinite;
 }

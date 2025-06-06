@@ -180,7 +180,7 @@ export const SUCCESS_MESSAGES = {
 // Theme
 export const THEME = {
   COLORS: {
-    PRIMARY: '#007bff',
+    PRIMARY: '#00A86B',
     SECONDARY: '#6c757d',
     SUCCESS: '#28a745',
     DANGER: '#dc3545',
